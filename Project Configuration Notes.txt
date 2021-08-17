@@ -1,0 +1,8 @@
+1) Create a New Directory named as the project Name.
+2) Now, on CMD, type this command to start the Project File:
+		- npx wdio config
+		
+3) Now, input the required details and the project file is configured.
+4) To execute the code type this command in the CMD: 
+		- npx wdio run wdio.conf.js
+		
